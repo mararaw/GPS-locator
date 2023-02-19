@@ -1,0 +1,145 @@
+(ExpressProject "SYROVY4B"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\4bsyrovym.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\syrovy4b.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow")
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File "SYROVY4B_V2.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (TRUE)
+    (RootChangedForceReNetlist "x")
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\syrovy4b.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File ".\syrovy4b_v2.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (Bluetooth_modul
+      (FullPartName "Bluetooth_modul.Normal")
+      (LibraryName "F:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    (GSM_modul
+      (FullPartName "GSM_modul.Normal")
+      (LibraryName "F:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    (GPS_modul
+      (FullPartName "GPS_modul.Normal")
+      (LibraryName "F:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    (Step_down
+      (FullPartName "Step_down.Normal")
+      (LibraryName "F:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    (Odpor
+      (FullPartName "Odpor.Normal")
+      (LibraryName "D:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    (Opto_interrupter
+      (FullPartName "Opto_interrupter.Normal")
+      (LibraryName "D:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    (H21A1
+      (FullPartName "H21A1.Normal")
+      (LibraryName "C:\CADENCE\ORCAD_9.2.3\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (BMS
+      (FullPartName "BMS.Normal")
+      (LibraryName "D:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    (Con2
+      (FullPartName "Con2.Normal")
+      (LibraryName "D:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    (Con5
+      (FullPartName "Con5.Normal")
+      (LibraryName "D:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    (Bat
+      (FullPartName "Bat.Normal")
+      (LibraryName "D:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    (BATTERY
+      (FullPartName "BATTERY.Normal")
+      (LibraryName "C:\CADENCE\ORCAD_9.2.3\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (Dioda
+      (FullPartName "Dioda.Normal")
+      (LibraryName "D:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    ("Step down"
+      (FullPartName "Step down.Normal")
+      (LibraryName "D:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    (BMP
+      (FullPartName "BMP.Normal")
+      (LibraryName "D:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    (Con4
+      (FullPartName "Con4.Normal")
+      (LibraryName "D:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "C:\CADENCE\ORCAD_9.2.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\CADENCE\ORCAD_9.2.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Kondenzátor
+      (FullPartName "Kondenzátor.Normal")
+      (LibraryName "D:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "C:\CADENCE\ORCAD_9.2.3\TOOLS\CAPTURE\LIBRARY\KRICENSKY.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "C:\CADENCE\ORCAD_9.2.3\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ARDUINO_NANO
+      (FullPartName "ARDUINO_NANO.Normal")
+      (LibraryName "D:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    (R2
+      (FullPartName "R2.Normal")
+      (LibraryName "C:\CADENCE\ORCAD_9.2.3\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("GSM modul"
+      (FullPartName "GSM modul.Normal")
+      (LibraryName "D:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0"))
+    ("GPS modul"
+      (FullPartName "GPS modul.Normal")
+      (LibraryName "D:\SYROVY4B\4BSYROVYM.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 -4 225 -1 586"))
+      (Tab 0)))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\Orcad_9.2.3\tools\capture\library"))
